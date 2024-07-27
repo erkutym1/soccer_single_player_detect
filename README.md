@@ -1,5 +1,5 @@
 # Soccer Single Player Detect Project
-Kocaeli University Embedded Systems Lab - Internship
+Kocaeli University Embedded Systems Laboratory
 
 TeamMates
 https://github.com/Voxor07
