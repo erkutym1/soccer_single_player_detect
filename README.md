@@ -7,4 +7,4 @@ https://github.com/OrhanUzel
 https://github.com/sametbilek
 https://github.com/senolkms
 
-To download project: https://drive.google.com/file/d/1qR-84RgmUtDxzYDfV3QT-r_LTvHusCF4/view?usp=drive_link
+To download project: https://drive.google.com/file/d/11b_Pfwrbh3dEyjsuTK_3doFaXfM-8wLU/view?usp=drive_link
