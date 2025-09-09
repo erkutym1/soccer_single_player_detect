@@ -12,4 +12,3 @@ https://www.linkedin.com/in/senolkms/
 https://www.linkedin.com/in/sametbilek/
 https://www.linkedin.com/in/orhan-uzel-5647a1236/
 
-To download project: https://drive.google.com/file/d/11b_Pfwrbh3dEyjsuTK_3doFaXfM-8wLU/view?usp=drive_link
